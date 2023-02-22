@@ -27,7 +27,7 @@ a:hover {
 }
 
 header {
-  background-color: #232f3e;
+  background-color: #111111;
   height: 99px;
 }
 
@@ -83,7 +83,7 @@ header {
 #nav-holiday {
   top: 9px;
   position: relative;
-  background-image: url('../img/fathers_day.jpg');
+  background-image: url('');
   width: 400px;
   height: 39px;
 }
@@ -442,7 +442,7 @@ footer a {
 }
 
 footer .top {
-  background: #37475a;
+  background: #111111;
 }
 
 footer .top a {
@@ -473,7 +473,7 @@ footer ul {
 }
 
 footer .middle {
-  background: #232f3e;
+  background: #111111;
 }
 
 footer .middle h3 {
